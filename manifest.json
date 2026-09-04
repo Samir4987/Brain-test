@@ -1,19 +1,4 @@
 {
-  "name": "Brain Age Test",
-  "short_name": "Brain Test",
-  "start_url": "/Brain-test/index.html",
-  "display": "standalone",
-  "background_color": "#0d1b2a",
-  "theme_color": "#1b263b",
-  "icons": [
-    {
-      "src": "icon.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
-}
-{
   "name": "Brain Test Game",
   "short_name": "Brain Test",
   "description": "A fun and challenging brain training puzzle game.",
