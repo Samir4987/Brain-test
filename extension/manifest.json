@@ -2,8 +2,11 @@
   "manifest_version": 3,
   "name": "Brain Test Game",
   "version": "1.0",
-  "description": "A fun and challenging brain training puzzle game.",
   "action": {
     "default_popup": "index.html"
+  },
+  "icons": {
+    "48": "icon.png",
+    "128": "icon.png"
   }
 }
